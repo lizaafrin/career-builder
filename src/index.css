@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-apply {
+    @apply bg-gradient-to-r from-indigo-400 to-indigo-500 border-none text-white;
+}
+.nav-btn{
+    @apply flex-shrink; 
+}
+.navbar,
+.header {
+    @apply bg-purple-50 max-w-7xl;
+}
+
+.category-list {
+    @apply sm:w-72 w-32 sm:h-52 h-44 border border-indigo-100 bg-purple-50 rounded-lg pl-4 sm:pl-8 pt-6;
+}
+
+.icon-style {
+    @apply sm:text-4xl text-2xl text-center rounded-lg bg-purple-100 w-8 sm:w-14 h-8 sm:h-14 sm:pt-1 sm:mb-8 mb-2;
+}
+
+.job-card {
+    @apply sm:w-[80%] max-w-5xl border border-indigo-100 bg-purple-50 rounded-lg grid grid-cols-1 sm:flex gap-2 items-center;
+}
+
+.statistics-container {
+    @apply mt-20;
+}
+
+/* #E1A2B8 #9F2BC1 */

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "job001",
+        "position": "Software Engineer",
+        "company": "Google",
+        "logo": "https://asset.brandfetch.io/id6O2oGzv-/idSuJ5ik7i.png",
+        "location": "Mountain View, CA",
+        "education": "BS/MS in Computer Science or related field",
+        "experience": "3+ years of experience in software development",
+        "jobDescription": "Design and develop software solutions that meet business requirements. Collaborate with cross-functional teams to ensure the software meets quality standards. Write and maintain clean and efficient code. Participate in code and design reviews.",
+        "jobResponsibilities": "1. Design and implement software solutions. 2. Collaborate with cross-functional teams. 3. Write and maintain clean and efficient code. 4. Participate in code and design reviews.",
+        "salary": "$120,000 - $180,000",
+        "jobType": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "email": "jobs@google.com",
+        "contactNo": "+1 (650) 253-0000",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043",
+        "deadline": "April 30th, 2023"
+    },
+    {
+        "id": "job002",
+        "position": "Frontend Developer",
+        "company": "Amazon",
+        "logo": "https://asset.brandfetch.io/idawOgYOsG/id-h4P8OVR.png",
+        "location": "Seattle, WA",
+        "education": "BS/MS in Computer Science or related field",
+        "experience": "3+ years of experience in web development",
+        "jobDescription": "Develop high-quality web applications using HTML, CSS, and JavaScript. Collaborate with UX designers and backend engineers to deliver a seamless user experience. Optimize application performance for a responsive design and web performance. Participate in code reviews and ensure adherence to coding standards.",
+        "jobResponsibilities": "1. Collaborate with UX designers and backend engineers. 2. Develop high-quality web applications. 3. Optimize application performance. 4. Participate in code reviews and ensure adherence to coding standards.",
+        "salary": "$100,000 - $150,000",
+        "jobType": [
+            "Full-Time",
+            "Remote"
+        ],
+        "email": "jobs@amazon.com",
+        "contactNo": "+1 (206) 266-1000",
+        "address": "410 Terry Ave N, Seattle, WA 98109",
+        "deadline": "May 15th, 2023"
+    },
+    {
+        "id": "job003",
+        "position": "Full-stack Developer",
+        "company": "Microsoft",
+        "logo": "https://asset.brandfetch.io/idchmboHEZ/id-ypZheVL.png",
+        "location": "Redmond, WA",
+        "education": "BS/MS in Computer Science or related field",
+        "experience": "4+ years of experience in web development",
+        "jobDescription": "Design and develop scalable and maintainable web applications using React and Node.js. Collaborate with cross-functional teams to deliver high-quality software solutions. Participate in code reviews and ensure adherence to coding standards. Troubleshoot and debug issues as needed.",
+        "jobResponsibilities": "1. Design and develop scalable and maintainable web applications. 2. Collaborate with cross-functional teams. 3. Participate in code reviews and ensure adherence to coding standards. 4. Troubleshoot and debug issues as needed.",
+        "salary": "$110,000 - $160,000",
+        "jobType": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "email": "jobs@microsoft.com",
+        "contactNo": "+1 (425) 882-8080",
+        "address": "1 Microsoft Way, Redmond, WA 98052",
+        "deadline": "May 17th, 2023"
+    },
+    {
+        "id": "job004",
+        "position": "Data Scientist",
+        "company": "Facebook",
+        "logo":"https://asset.brandfetch.io/idpKX136kp/idA0oZ9v8O.png",
+        "location": "Menlo Park, CA",
+        "education": "BS/MS/PhD in Computer Science, Statistics or related field",
+        "experience": "2+ years of experience in data science or related field",
+        "jobDescription": "Analyze large data sets to identify trends and patterns. Develop and implement machine learning models to solve business problems. Collaborate with cross-functional teams to deliver data-driven insights. Communicate findings and recommendations to stakeholders.",
+        "jobResponsibilities": "1. Analyze large data sets. 2. Develop and implement machine learning models. 3. Collaborate with cross-functional teams. 4. Communicate findings and recommendations to stakeholders.",
+        "salary": "$130,000 - $200,000",
+        "jobType": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "email": "jobs@facebook.com",
+        "contactNo": "+1 (650) 543-4800",
+        "address": "1 Hacker Way, Menlo Park, CA 94025",
+        "deadline": "May 31st, 2023"
+    },
+    {
+        "id": "job005",
+        "position": "Backend Engineer",
+        "company": "Uber",
+        "logo": "https://asset.brandfetch.io/ididNbiiOd/id_k3r_1Du.png",
+        "location": "San Francisco, CA",
+        "education": "BS/MS in Computer Science or related field",
+        "experience": "3+ years of experience in backend development",
+        "jobDescription": "Design and implement scalable and maintainable backend services using Java or Go. Collaborate with cross-functional teams to deliver high-quality software solutions. Optimize application performance for a responsive design and web performance. Participate in code reviews and ensure adherence to coding standards.",
+        "jobResponsibilities": "1. Design and implement scalable and maintainable backend services. 2. Collaborate with cross-functional teams. 3. Optimize application performance. 4. Participate in code reviews and ensure adherence to coding standards.",
+        "salary": "$120,000 - $180,000",
+        "jobType": [
+            "Full-Time",
+            "Remote"
+        ],
+        "email": "jobs@uber.com",
+        "contactNo": "+1 (415) 986-2104",
+        "address": "1455 Market St #400, San Francisco, CA 94103",
+        "deadline": "June 15th, 2023"
+    },
+    {
+        "id": "job006",
+        "position": "iOS Developer",
+        "company": "Apple",
+        "logo": "https://asset.brandfetch.io/idnrCPuv87/idxOYAzhNS.png",
+        "location": "Cupertino, CA",
+        "education": "BS/MS in Computer Science or related field",
+        "experience": "3+ years of experience in iOS development",
+        "jobDescription": "Design and develop high-quality iOS applications. Collaborate with cross-functional teams to deliver software solutions that meet business requirements. Optimize application performance for a responsive design and great user experience. Participate in code reviews and ensure adherence to coding standards.",
+        "jobResponsibilities": "1. Design and develop high-quality iOS applications. 2. Collaborate with cross-functional teams. 3. Optimize application performance. 4. Participate in code reviews and ensure adherence to coding standards.",
+        "salary": "$110,000 - $160,000",
+        "jobType": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "email": "jobs@apple.com",
+        "contactNo": "+1 (408) 996-1010",
+        "address": "1 Apple Park Way, Cupertino, CA 95014",
+        "deadline": "June 20th, 2023"
+    }
+]

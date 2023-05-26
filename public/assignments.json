@@ -1,0 +1,42 @@
+[
+    {
+        "id": "ass001",
+        "marks": "60",
+        "name": "New-Year-New-Me"
+    },
+    {
+        "id": "ass002",
+        "marks": "59",
+        "name": "G3-Architects"
+    },
+    {
+        "id": "ass003",
+        "marks": "60",
+        "name": "Legal-House"
+    },
+    {
+        "id": "ass004",
+        "marks": "60",
+        "name": "JS-Problem-Solving"
+    },
+    {
+        "id": "ass005",
+        "marks": "60",
+        "name": "Geometry-Genius"
+    },
+    {
+        "id": "ass006",
+        "marks": "55",
+        "name": "AI-Universe"
+    },
+    {
+        "id": "ass007",
+        "marks": "60",
+        "name": "Quiz-Hero"
+    },
+    {
+        "id": "ass008",
+        "marks": "60",
+        "name": "Knowledge-Cafe"
+    }
+]
