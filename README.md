@@ -23,6 +23,3 @@ Icon -> [FontAwesome](https://fontawesome.com/)
 ## Live Link
 Hosted in Netlify -> https://poetic-cascaron-6187be.netlify.app/
 
-
-## Build Your Career Template
-Github Private Repo -> https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-lizaafrin
